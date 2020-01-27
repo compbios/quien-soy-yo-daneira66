@@ -18,3 +18,11 @@ Soy psicólogo de la Universidad Católica de Colombia especialista en Estadíst
 > * R y editores como Rstudio
 > * Python
 > * Lertap5
+
+## Investigaciones
+
+**RELACIÓN DEL DETERIORO COGNITIVO CON EL PERFIL LIPIDICO EN ADULTOS MAYORES: UN ANALISIS DE CORRESPONDENCIAS**
+*(Co-autor, Fundación Universitaria Los Libertadores, 2018).*
+
+**PROPIEDADES PSICOMETRICAS DEL INVENTARIO DE TRASTORNOS DE LA CONDUCTA ALIMENTARIA (EDI-3) EN ADULTOS BOGOTANOS-FASE 2**
+*(Auxiliar de investigación, Universidad Católica de Colombia, 2015 – 2016).*
